@@ -6,6 +6,8 @@ Approach : find no of element in which we have choice then apply nCr using MOD
 
 Time Complexity : O(nlogn)
 Space Complexity : O(n)
+
+https://codeforces.com/contest/1475/submission/355454137
 */
 #include <bits/stdc++.h>
 #include <bits/stdc++.h>
